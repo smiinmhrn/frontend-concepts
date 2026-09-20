@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding: 40px;
+}
+
+#box {
+  width: 100px;
+  height: 100px;
+  background: tomato;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+}
